@@ -1,0 +1,64 @@
+.head_and h1{
+	display:		inline-block;
+	font-size:		1.5em;
+}
+.info h1{
+	font-size:		1.5em;
+	font-weight:	lighter;
+}
+.info h2{
+	font-size:		14px;
+	font-weight:	lighter;
+	margin-top:		-0.67em;
+}
+.main {
+    display:		flex;
+}
+.pic {
+	width:			1104px;
+}
+.pic img{
+	width:			100%;
+	display:		block;;
+}
+.side {
+	flex:1;
+	padding:		5px;
+	background:		#eee;
+}
+.home {
+	margin:			10px 0;
+}
+.home a {
+	text-decoration:none;
+}
+.md5 {
+	font-size:		12px;
+}
+.like {
+
+	font-size:		30px;
+}
+.btn {
+	margin-top:		20px;
+	display:		inline-block;
+	height:			60px;
+	line-height:	60px;
+	color:			#f8ccac;
+	background:		#eceaeb;
+	text-decoration:none;
+}
+.widthbtn {
+	width:			100%;
+	text-align:		center;
+}
+.like .btn {
+	padding:0 30px;
+}
+.likemuch {
+	font-size:		25px;
+}
+.redheart {
+	font-size:		25px;
+	color:			red;
+}

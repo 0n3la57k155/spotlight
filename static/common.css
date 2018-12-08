@@ -1,0 +1,10 @@
+textarea.block,
+#pagetype.block,
+input.block {
+    display:block;
+    line-height:22px;
+    margin-top:3px;
+}
+#pagetype {
+    margin-left:0;
+}
